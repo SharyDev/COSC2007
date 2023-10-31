@@ -1,8 +1,7 @@
 /*
  Course Name: COSC2007P(LAB) - Data Structures II (23W)
  Name: Shahroz Abbas
- ID: 229641040
- Section: COSC2007P
+
  */
 
 public class Assignment1 {
