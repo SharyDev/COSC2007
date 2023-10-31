@@ -1,8 +1,7 @@
 /*
- Course Name: COSC2007P(LAB) - Data Structures II (23W)
+ Course Name: COSC2007P(LAB) - Data Structures II 
  Name: Shahroz Abbas
- ID: 229641040
- Section: COSC2007P
+ 
  */
 import java.util.*;
 public class Part2Ex2 {
